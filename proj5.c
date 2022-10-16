@@ -1,6 +1,8 @@
 // I2C BME280 sensor - Temperature read
-// Example:		https://github.com/ESP32Tutorials/esp32-esp-idf-mqtt-bme280/tree/main/components/bme280
-// Tutorial: 	https://esp32tutorials.com/esp32-mqtt-publish-bme280-node-red-esp-idf/#more-2125
+
+// Tutorial: 			https://esp32tutorials.com/esp32-mqtt-publish-bme280-node-red-esp-idf/#more-2125
+// Original example: 		https://github.com/ESP32Tutorials/esp32-esp-idf-mqtt-bme280/blob/main/main/main.c
+// BME280 files:		https://github.com/ESP32Tutorials/esp32-esp-idf-mqtt-bme280/tree/main/components/bme280
 
 #include <stdio.h>
 #include <stdint.h>
